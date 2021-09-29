@@ -1,4 +1,14 @@
 baseURL = 'https://qingping95.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Qingping Yang'
 theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Codeforces", URL = "https://codeforces.com/profile/qingping95"},
+      {Name = "Github", URL = "https://github.com/qingping95"}
+  ]
+
+[params]
+  description = "杨清平"
+  themeColor = "theme-base-0c"
