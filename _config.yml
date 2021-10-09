@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Qingping Yang / 杨清平"
+title                    : "胡 姣 / Jiao Hu"
 title_separator          : "-"
-name                     : "Qingping Yang"
+name                     : "胡 姣 / Jiao Hu"
 description              : 
-url                      : https://csrhddlam.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qingping95.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : Qingping Yang
-  avatar           : /qingping2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : PhD Candidate in CS at ICT, CAS
+  name             : 胡 姣 / Jiao Hu
+  avatar           : /hujiao.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : PhD Candidate in Education at ECNU
   location         :
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: mailto:yangqingping17s@ict.ac.cn
+      url: mailto:hujiao@ict.ac.cn
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       # url: "https://csrhddlam.github.io/CV_HuiyuWang.pdf"
